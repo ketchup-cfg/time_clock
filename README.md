@@ -1,4 +1,4 @@
-# Time-Clock
+# time_clock
 This was a program that I helped write for my jBASE class as our final project that was shown to a local employer during a presentation.
 
 GitHub, for some reason, thinks that this was written in Brainfuck, but it was written in jBASIC. The only file in here with actual code is the
